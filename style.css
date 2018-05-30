@@ -24,3 +24,38 @@ body {
     background-color: orange;
     color: black;
 }
+
+.para {
+  background-color: #f2f2f2;
+  overflow: hidden;
+  border-radius: 5px;
+  padding: 5px 25px;
+  text-align: justify;
+  margin-bottom: 10px
+}
+
+section {
+  float: left;
+  width: 69%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+  color: white;
+}
+
+h4 {
+  color: red;
+}
+
+#last{
+  padding-left: 10px;
+}
+
+span{
+  color: orange;
+}
