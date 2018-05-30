@@ -59,3 +59,9 @@ h4 {
 span{
   color: orange;
 }
+
+@media only screen and (max-width: 600px) {
+  section, aside, img, a {
+    width: 100%;
+  }
+}
